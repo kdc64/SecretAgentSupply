@@ -1,0 +1,30 @@
+html {
+  font-size: 18px;
+  background-color: White;
+  font-family: sans-serif;
+}
+
+body {
+  font-family: "Helvetica", sans-serif;
+}
+
+.company {
+  background-color: black;
+  color: White;
+}
+
+.company img {
+ height: 1.5em;
+ padding-right: 15px;
+}
+
+.company .container {
+  display: flex;
+  align-items: center;
+  padding: 12px 0 12px 0.5em;
+}
+
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+}
